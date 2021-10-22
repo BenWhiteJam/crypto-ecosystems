@@ -6,20 +6,12 @@ sub_ecosystems = []
 github_organizations = ["https://github.com/PureStake/"]
 
 # Repositories
-[[repo]]
- url = "https://github.com/PureStake/js-algorand-sdk"
-
-[[repo]]
- url = "https://github.com/PureStake/api-examples"
 
 [[repo]]
  url = "https://github.com/PureStake/moonbeam-poc"
 
 [[repo]]
  url = "https://github.com/PureStake/moonbeam"
-
-[[repo]]
- url = "https://github.com/PureStake/algosigner"
 
 [[repo]]
  url = "https://github.com/PureStake/frontier"
@@ -35,9 +27,6 @@ github_organizations = ["https://github.com/PureStake/"]
 
 [[repo]]
  url = "https://github.com/PureStake/cumulus"
-
-[[repo]]
- url = "https://github.com/PureStake/algosigner-dapp-example"
 
 [[repo]]
  url = "https://github.com/PureStake/moonbeam-parachain"
@@ -60,8 +49,6 @@ github_organizations = ["https://github.com/PureStake/"]
 [[repo]]
  url = "https://github.com/PureStake/common"
 
-[[repo]]
- url = "https://github.com/PureStake/java-algorand-sdk"
 
 [[repo]]
  url = "https://github.com/PureStake/extension"
@@ -96,8 +83,6 @@ github_organizations = ["https://github.com/PureStake/"]
 [[repo]]
  url = "https://github.com/PureStake/crowdloan-tools"
 
-[[repo]]
- url = "https://github.com/PureStake/moonbeam-uniswap"
 
 [[repo]]
  url = "https://github.com/PureStake/moonbeam-docs-cn"

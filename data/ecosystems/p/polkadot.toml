@@ -24,29 +24,24 @@ sub_ecosystems = [
   "Ternoa",
   "TokenSoft",
   "Vertua",
-  "Valibre",
   "Crust",
   "Centrifuge",
   "Bifrost",
   "HydraDX",
-  "Hydra",
   "Kylin Network",
   "Mantra DAO",
   "Matter Labs",
   "Moonbeam",
   "Adoria Soft",
-  "Airgap",
+  "AirGap",
   "Aleph Zero",
-  "AnKR",
+  "Ankr",
   "Apron Labs",
   "Astar Network",
-  "Attic Lab",
   "Automata Network",
-  "Avado",
   "Aventus",
   "Band Protocol",
   "Bit.country",
-  "Blockdaemon",
   "Bluzelle",
   "Borlaug Web Services",
   "Caelum Labs",
@@ -57,12 +52,12 @@ sub_ecosystems = [
   "ChainX",
   "Chronicled",
   "Creator",
-  "Data-Highway",
+  "Data Highway",
   "DatDot",
   "DeepBrainChain",
   "Deeper Network",
   "DIA",
-  "Dora-Factory",
+  "Dora Factory",
   "DOTMog",
   "dTrade",
   "Encointer",
@@ -78,24 +73,23 @@ sub_ecosystems = [
   "Geefu",
   "Halva",
   "Injective Protocol",
-  "Integritee"
+  "Integritee",
   "Kulupu",
   "Limechain",
-  "Linear-finance",
   "Litentry",
-  "Manta-Network",
-  "Math",
-  "Math-Chain",
+  "Manta Network",
+  "MathChain",
   "MixBytes",
   "Moonpay",
-  "Node-Factory",
+  "Node Factory",
   "Nodle",
   "OAX",
   "Obsidian Labs",
-  "On-Finality",
+  "OnFinality",
   "Ontology",
   "OriginTrail",
   "Parallel Finance",
+  "Patract Labs",
   "Polkadex",
   "Polkahub",
   "Polkascan",
@@ -105,12 +99,12 @@ sub_ecosystems = [
   "Polkawallet",
   "Polymath",
   "Pontem Network",
-  "Prochain",
-  "Renvm",
+  "ProChain",
+  "RenVM",
   "RioDefi",
   "Robonomics",
   "SafePal",
-  "Second State",
+  "SecondState",
   "Sensorium",
   "Shift",
   "Shyft Network",
@@ -119,24 +113,19 @@ sub_ecosystems = [
   "Subscan",
   "Subspace Network",
   "Subsquid",
-  "Subsocial"
+  "Subsocial",
+  "Subquery",
   "t3rn",
   "Tea Project",
   "Totem",
   "TPFS",
   "Trust Wallet",
   "Unique Network",
+  "Virto Network",
   "zCloak Network",
   "ZeroPool",
   "Zondax",
   "Zeitgeist",
-  ""
-
-
-
-
-  
-
 ]
 
 github_organizations = [
@@ -1432,9 +1421,6 @@ url = "https://github.com/uvfive/substrate-lesson"
 
 [[repo]]
 url = "https://github.com/ValeryiaKarpenko/cafe-substrate"
-
-[[repo]]
-url = "https://github.com/valibre-org/node"
 
 [[repo]]
 url = "https://github.com/validitylabs/hopr-polkadot"
