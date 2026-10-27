@@ -12,3 +12,13 @@
 .DS_Store
 .DS_Store?
 .gitsigners
+
+.cargo
+
+# Zig related gitignore
+zig-out/
+.zig-cache/
+.tcache/
+
+__pycache__
+*.egg-info/
